@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "991759267840",
+    "firebase_url": "https://testapp-9b3be.firebaseio.com",
+    "project_id": "testapp-9b3be",
+    "storage_bucket": "testapp-9b3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991759267840:android:1643c03f1b321922",
+        "android_client_info": {
+          "package_name": "com.navoki.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991759267840-4shonocio79jvoa9pameba7hl8dvfpfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navoki.firebase",
+            "certificate_hash": "e8ea43b149a0d2cc93731456b5a4fae19e668b73"
+          }
+        },
+        {
+          "client_id": "991759267840-mdd6g59gqf68pp4r3q1550bijm23vlh6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "991759267840-mdd6g59gqf68pp4r3q1550bijm23vlh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIj26fePHcYoEoOhJq-JK76cjXLcKUNhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991759267840-mdd6g59gqf68pp4r3q1550bijm23vlh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
